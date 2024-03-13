@@ -1,0 +1,300 @@
+Time 0
+Remaining tasks: [[2|6|3], [4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 1
+Remaining tasks: [[2|6|3], [4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 2
+Remaining tasks: [[2|6|3], [4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 3
+Remaining tasks: [[2|6|3], [4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 4
+Remaining tasks: [[2|6|3], [4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 5
+Remaining tasks: [[2|6|3], [4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 6
+Remaining tasks: [[2|6|3], [4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 7
+Remaining tasks: [[4|17|4], [3|18|4], [1|20|2]]
+Queue 1:  [2|6|3]
+Queue 2:
+
+Time 8
+Remaining tasks: [[4|17|4], [3|18|4], [1|20|2]]
+Queue 1:  [2|6|2]
+Queue 2:
+
+Time 9
+Remaining tasks: [[4|17|4], [3|18|4], [1|20|2]]
+Queue 1:  [2|6|1]
+Queue 2:
+
+Time 10
+Remaining tasks: [[4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 11
+Remaining tasks: [[4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 12
+Remaining tasks: [[4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 13
+Remaining tasks: [[4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 14
+Remaining tasks: [[4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 15
+Remaining tasks: [[4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 16
+Remaining tasks: [[4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 17
+Remaining tasks: [[4|17|4], [3|18|4], [1|20|2]]
+Queue 1:
+Queue 2:
+
+Time 18
+Remaining tasks: [[3|18|4], [1|20|2]]
+Queue 1:  [4|17|4]
+Queue 2:
+
+Time 19
+Remaining tasks: [[1|20|2]]
+Queue 1:  [4|17|3]
+Queue 2:  [3|18|4]
+
+Time 20
+Remaining tasks: [[1|20|2]]
+Queue 1:  [4|17|2]
+Queue 2:  [3|18|3]
+
+Time 21
+Remaining tasks: []
+Queue 1:  [4|17|1], [1|20|2]
+Queue 2:  [3|18|2]
+
+Time 22
+Remaining tasks: []
+Queue 1:  [1|20|2]
+Queue 2:  [3|18|1]
+
+Time 23
+Remaining tasks: []
+Queue 1:  [1|20|1]
+Queue 2:
+
+Time 24
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 25
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 26
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 27
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 28
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 29
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 30
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 31
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 32
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 33
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 34
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 35
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 36
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 37
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 38
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 39
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 40
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 41
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 42
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 43
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 44
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 45
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 46
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 47
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 48
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 49
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 50
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 51
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 52
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 53
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 54
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 55
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 56
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 57
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 58
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
+Time 59
+Remaining tasks: []
+Queue 1:
+Queue 2:
+
